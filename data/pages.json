@@ -7,6 +7,10 @@
     "name": "Каталог",
     "url": "catalog"
   },
+   {
+    "name": "Акции",
+    "url": "promotions"
+  },
   {
     "name": "Доставка",
     "url": "delivery"
